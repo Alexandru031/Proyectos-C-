@@ -1,0 +1,10 @@
+C:\Users\Programacion\source\repos\PruebaAppWindows1\bin\Debug\PruebaAppWindows1.exe.config
+C:\Users\Programacion\source\repos\PruebaAppWindows1\bin\Debug\PruebaAppWindows1.exe
+C:\Users\Programacion\source\repos\PruebaAppWindows1\bin\Debug\PruebaAppWindows1.pdb
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.csproj.AssemblyReference.cache
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.Properties.Resources.resources
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.csproj.GenerateResource.cache
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.exe
+C:\Users\Programacion\source\repos\PruebaAppWindows1\obj\Debug\PruebaAppWindows1.pdb
